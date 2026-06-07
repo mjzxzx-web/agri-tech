@@ -5,7 +5,7 @@
 ### Milestone:1 Project Setup and Configuration: 
 - **Status:** done
 - **Priority:** medium
-- **Due:** 2026-05-02
+- **Due:** 2026-05-05
 
 This section outlines the necessary steps to set up the development environment for the Agri-Tech web application, including installation of tools, folder structure, and required packages for both frontend and backend development.
 
@@ -46,7 +46,7 @@ Once the folders are set, navigate into each and install the necessary packages.
 ### Milestone 2: Backend Development: 
 - **Status:** done
 - **Priority:** medium
-- **Due:** 2026-05-03
+- **Due:** 2026-05-12
 
 Backend npm Packages
 Install in the /server directory:
@@ -115,7 +115,7 @@ Middleware verifies and authorizes user access.
 ### Milestone 3: Database development
 - **Status:** done
 - **Priority:** medium
-- **Due:** 2026-05-04
+- **Due:** 2026-05-16
 
 1. Configure MongoDB
 To manage and persist user and application data, we use MongoDB — a flexible, document-oriented NoSQL database — in combination with Mongoose, which is an elegant ODM (Object Data Modeling) library for Node.js. This setup allows seamless interaction with the MongoDB database through JavaScript/TypeScript.
@@ -133,7 +133,7 @@ The schemas are looks like for the Application.
 ### Milestone 4: Frontend development 
 - **Status:** done
 - **Priority:** medium
-- **Due:** 2026-05-05
+- **Due:** 2026-05-23
 
 1. Setup React Application
 This step involves initializing and preparing the base environment for frontend development:
@@ -216,7 +216,7 @@ Retrieve and display the respective weather information on the UI.
 ### Milestone 5: Project Implementation
 - **Status:** done
 - **Priority:** medium
-- **Due:** 2026-05-06
+- **Due:** 2026-05-28
 
 Run the Complete Application and start backend and frontend servers:
 Backend
